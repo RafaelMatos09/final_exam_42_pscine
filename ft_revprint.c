@@ -6,7 +6,7 @@
 /*   By: rafmorei <djmaelreborn@gmail.com>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/18 20:27:56 by rafmorei          #+#    #+#             */
-/*   Updated: 2023/08/18 20:36:59 by rafmorei         ###   ########.fr       */
+/*   Updated: 2023/08/18 20:43:38 by rafmorei         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -39,7 +39,6 @@ void ft_revstr(char *str)
         i--;
     }
 }
-
 int main(void)
 {
     ft_revstr("djmael");
